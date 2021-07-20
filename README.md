@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Youtube_loading_symbol_1_(wobbly).gif" />
-<img src="https://www.pinterest.ca/pin/551831760574037140/" />
+<img src="https://i.pinimg.com/originals/2d/2a/8e/2d2a8e789d25f8d79809493c10349b10.gif" />
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
