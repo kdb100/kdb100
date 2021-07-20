@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I enjoy UI/UX design 
 
 <img src="https://i.pinimg.com/originals/0c/5d/03/0c5d03db770f125d9cdc5048a4c6a16d.gif" />
-
+<img src= "https://i.pinimg.com/originals/2d/2a/8e/2d2a8e789d25f8d79809493c10349b10.gif" />
 
 ### Connect with me:
 
