@@ -11,12 +11,10 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I enjoy UI/UX design 
 
+<img src="https://i.pinimg.com/originals/0c/5d/03/0c5d03db770f125d9cdc5048a4c6a16d.gif" />
 ### Spotify Playing 🎧
 
 <img src="https://cdn.dribbble.com/users/54054/screenshots/1796505/pre-comp-2_1.gif" />
-
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
