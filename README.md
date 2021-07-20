@@ -12,12 +12,12 @@
 - ⚡ Fun fact: I enjoy UI/UX design 
 
 <img src="https://i.pinimg.com/originals/0c/5d/03/0c5d03db770f125d9cdc5048a4c6a16d.gif" />
-<img src= "https://i.pinimg.com/originals/2d/2a/8e/2d2a8e789d25f8d79809493c10349b10.gif" />
+<img src= "https://thumbs.gfycat.com/EnviousSardonicAmericanmarten-size_restricted.gif" />
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="kdbworks.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="kdb100_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 
 ### Languages and Tools:
