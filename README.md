@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Femi [kdb100][website] 👋
+### Hi there, I'm Kweku [kdb100][website] 👋
 
 [![Website](https://img.shields.io/website?label=kdbworks.com&style=for-the-badge&url=https%3A%2F%2Fkdbworks.com)](https://www.kdbworks.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kdb100_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=kdb100_)
@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 
 ### Languages and Tools:
@@ -63,20 +61,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [MongoDB 5.0, Build a Flutter Game, FARM Stack ?🤯 // STACKr News Weekly - Issue 3](https://www.youtube.com/watch?v=UyO3r3_rECw)
-- [React 18 & TypeScript | How to Enable TypeScript in React 18](https://www.youtube.com/watch?v=bA5pZnEE0yA)
-- [7 HOUR React Course, Quantum Computing, and Top CSS Frameworks 🤯 // STACKr News Weekly - Issue 2](https://www.youtube.com/watch?v=z8RAL5f-SF0)
-- [Top VS Code Updates | v1.58 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=lWC3bSuADRw)
-- [AI Copilots, Dinosaurs, and AWS 🤯 // STACKr News Weekly - Issue 1](https://www.youtube.com/watch?v=7kmb7-tFuXM)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -88,17 +72,6 @@ Here are some ideas to get you started:
 ➡️ [more blog posts...](https://kdb100.medium.com)
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
 
