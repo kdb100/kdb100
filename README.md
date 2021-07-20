@@ -12,8 +12,7 @@
 - ⚡ Fun fact: I enjoy UI/UX design 
 
 ### Spotify Playing 🎧
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Youtube_loading_symbol_1_(wobbly).gif" />
-<img src="https://i.pinimg.com/originals/2d/2a/8e/2d2a8e789d25f8d79809493c10349b10.gif" />
+
 <img src="https://cdn.dribbble.com/users/54054/screenshots/1796505/pre-comp-2_1.gif" />
 
 
