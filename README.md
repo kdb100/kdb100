@@ -3,6 +3,8 @@
 [![Website](https://img.shields.io/website?label=kdbworks.com&style=for-the-badge&url=https%3A%2F%2Fkdbworks.com)](https://www.kdbworks.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kdb100_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=kdb100_)
 
+<img src= "https://thumbs.gfycat.com/EnviousSardonicAmericanmarten-size_restricted.gif" />
+
 ## I'm an Economist & Software developer.
 
 - 🔭 I am currently developing blockchain & AI projects
@@ -12,7 +14,7 @@
 - ⚡ Fun fact: I enjoy UI/UX design 
 
 <img src="https://i.pinimg.com/originals/0c/5d/03/0c5d03db770f125d9cdc5048a4c6a16d.gif" />
-<img src= "https://thumbs.gfycat.com/EnviousSardonicAmericanmarten-size_restricted.gif" />
+
 
 ### Connect with me:
 
