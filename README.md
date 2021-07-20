@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Femi [kdb100][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.kdbworks.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=kdbworks.com&style=for-the-badge&url=https%3A%2F%2Fkdbworks.com)](https://www.kdbworks.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kdb100_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=kdb100_)
 
 ## I'm an economist & software developer.
 
@@ -105,4 +105,4 @@ Here are some ideas to get you started:
 </details>
 
 [website]: https://www.kdbworks.com
-[twitter]: https://twitter.com/kdb100
+[twitter]: https://twitter.com/kdb100_
