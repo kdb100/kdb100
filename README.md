@@ -1,4 +1,4 @@
-### Hi there, I'm Kweku DB [kdb100][website] 👋
+### Hi there & Welcome 👋
 
 [![Website](https://img.shields.io/website?label=kdbworks.com&style=for-the-badge&url=https%3A%2F%2Fkdbworks.com)](https://www.kdbworks.com)
 
