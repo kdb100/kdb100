@@ -1,26 +1,16 @@
-### Hi there & Welcome 👋
-
-[![Website](https://img.shields.io/website?label=kdbworks.com&style=for-the-badge&url=https%3A%2F%2Fkdbworks.com)](https://www.kdbworks.com)
-
-
+### 
 <img src= "https://thumbs.gfycat.com/EnviousSardonicAmericanmarten-size_restricted.gif" />
 
-## I'm an Economist & Software developer.
+##  Economics & Software 
 
-- 🔭 I am currently developing blockchain & AI projects
-- 🌱 I’m currently learning everything web3 related 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I enjoy UI/UX design 
+- 🔭 Developing blockchain & AI projects
+- 🌱 Learning web3  
+- 👯 Looking to collaborate & contribute to projects
+- ⚡ I enjoy UI/UX design 
 
 <img src="https://i.pinimg.com/originals/0c/5d/03/0c5d03db770f125d9cdc5048a4c6a16d.gif" />
 
 
-### Connect with me:
-
-[<img align="left" alt="kdbworks.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="kdb100_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br />
 
 ### Languages and Tools:
 
