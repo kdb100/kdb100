@@ -8,9 +8,6 @@
 - 👯 Looking to collaborate & contribute to projects
 - ⚡ I enjoy UI/UX design 
 
-<img src="https://i.pinimg.com/originals/0c/5d/03/0c5d03db770f125d9cdc5048a4c6a16d.gif" />
-
-
 
 ### Languages and Tools:
 
